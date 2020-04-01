@@ -1,11 +1,11 @@
-# Foobar
+# Tranformation with WEBGL P5
 
-Foobar is a Python library for dealing with word pluralization.
+
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Install node static server to run the transformation, else the preload function won't work.
 
 ```bash
-pip install foobar
+node server.js
 ```
