@@ -1,0 +1,15 @@
+body { margin: 0;
+    overflow: hidden;
+}
+canvas { display: block; }
+
+video {
+    /*display: none;*/
+}
+
+#camStream, #canvas {
+    visibility: hidden;
+    position: absolute;
+}
+
+
