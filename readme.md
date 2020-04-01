@@ -4,7 +4,7 @@
 
 ## Installation
 
-Install node static server to run the transformation, else the preload function won't work.
+Install node static server to run the transformation, else the preload function won't work locally.
 
 ```bash
 npm install connect serve-static
