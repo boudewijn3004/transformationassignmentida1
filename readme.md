@@ -7,5 +7,6 @@
 Install node static server to run the transformation, else the preload function won't work.
 
 ```bash
+npm install connect serve-static
 node server.js
 ```
