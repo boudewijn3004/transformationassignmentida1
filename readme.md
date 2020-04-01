@@ -1,4 +1,4 @@
-# Tranformations with WEBGL P5
+# Transformations with WEBGL P5
 
 I tried to make a growing cell transformation. It is not quite finished yet tho.
 
